@@ -1,0 +1,5 @@
+{
+    "name": "5xx-errors",
+    "compatibility_date": "2025-05-09",
+    "main": "worker.js"
+}
