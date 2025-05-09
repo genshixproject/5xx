@@ -1,5 +1,5 @@
 {
-    "name": "5xx-errors",
+    "name": "5xx",
     "compatibility_date": "2025-05-09",
     "main": "worker.js"
 }
