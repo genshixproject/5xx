@@ -5,11 +5,6 @@ addEventListener('fetch', event => {
 const FALLBACK_URL = 'https://raw.githubusercontent.com/genshixproject/5xx/main/index.html'
 const TTL = 600
 
-export default {
-  async fetch(request, env, ctx) {
-    return new Response('Hello World!');
-  },
-};
 async function handleRequest(event) {
   const request = event.request
 
